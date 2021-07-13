@@ -1,6 +1,5 @@
-# Getting Started with Create React App
+# Lista de Pokemon
 
-#Lista de Pokemon
 Este repositorio es una web con un listado de Pokemon. Es un ejercicio realizado con React, que forma parte del curso de formación de la Asociación Adalab.
 
 El objetivo principal de la realización del proyecto es aprender.
